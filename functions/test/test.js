@@ -3,7 +3,7 @@ let expect = chai.expect;
 
 describe('#testok', () => {
     it("should pass", function() {
-        expect("ok").to.be.equal("ok"); 
+        expect("ok").to.be.equal("haha"); 
     }) ;
     
 });
