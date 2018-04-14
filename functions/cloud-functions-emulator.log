@@ -1,0 +1,3 @@
+2018-04-14T21:29:12.286Z - info: User function triggered, starting execution
+2018-04-14T21:29:12.294Z - info: Execution took 11 ms, user function completed successfully
+2018-04-14T21:29:12.353Z - info: Worker for testFunction closed due to file changes.
